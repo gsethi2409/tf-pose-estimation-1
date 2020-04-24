@@ -27,11 +27,13 @@ Implemented features are listed here : [features](./etcs/feature.md)
 You need dependencies below.
 
 - python3
-- tensorflow 1.4.1+
+- tensorflow 2.0+
 - opencv3, protobuf, python3-tk
 - slidingwindow
   - https://github.com/adamrehn/slidingwindow
   - I copied from the above git repo to modify few things.
+- tf-slim
+  - The updated version for TensorFlow2.0+ can be found here: https://github.com/adrianc-a/tf-slim
 
 ### Pre-Install Jetson case
 
